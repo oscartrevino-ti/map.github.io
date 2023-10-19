@@ -87,7 +87,8 @@ var simplemaps_countrymap_mapdata={
     },
     MEX2709: {
       name: "Chihuahua",
-      description: " "
+      description: " ",
+      color: "#f48a3e"
     },
     MEX2710: {
       name: "Durango",
@@ -107,11 +108,13 @@ var simplemaps_countrymap_mapdata={
     },
     MEX2714: {
       name: "Nuevo León",
-      description: " "
+      description: " ",
+      color: "#f48a3e"
     },
     MEX2715: {
       name: "San Luis Potosí",
-      description: " "
+      description: " ",
+      color: "#f48a3e"
     },
     MEX2716: {
       name: "Tamaulipas",
