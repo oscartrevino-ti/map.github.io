@@ -79,15 +79,18 @@ var simplemaps_countrymap_mapdata={
     },
     MEX2708: {
       name: "Saltillo",
-      url: "https://www.google.com.mx/maps/place/Perif.+Luis+Echeverr%C3%ADa+1800-b,+Av%C3%ADcola,+25280+Saltillo,+Coah./@25.4313072,-100.9741715,17z/data=!3m1!4b1!4m5!3m4!1s0x86880d50f9eb118f:0xe136276386ef6ac5!8m2!3d25.4313072!4d-100.9715966?entry=ttu",
+      url: "https://www.google.com/maps/place/Maquinaria+MK/@25.4313072,-100.9715966,17z/data=!3m1!4b1!4m6!3m5!1s0x86880d2123c86389:0x53c3574a7b07fd94!8m2!3d25.4313072!4d-100.9715966!16s%2Fg%2F11j9hkvwcj?hl=en&entry=ttu",
       inactive: "no",
       hover_color: "#F26E0F",
-      description: "(844) 143 88 95 <br><br>Perif. Luis Echeverría 1800 - B, Avícola, 25290 Saltillo, Coah., Mexico",
+      description: "84 4143 8895 <br><br>Perif. Luis Echeverría 1800 - B, Avícola, 25290 Saltillo, Coah., Mexico",
       color: "#f48a3e"
     },
     MEX2709: {
       name: "Chihuahua",
-      description: " ",
+      url: "https://www.google.com/maps/place/Maquinaria+MK+Chihuahua/@28.6727503,-106.0864666,19.79z/data=!4m9!1m2!2m1!1sAv.+de+las+Industrias+4902+Verde+31105+Chihuahua,+Chih.!3m5!1s0x86ea4374ea45ae45:0x7a75f3893a0efa71!8m2!3d28.6725245!4d-106.0862365!16s%2Fg%2F11cmnrzjz7?hl=es-ES&entry=ttu",
+      inactive: "no",
+      hover_color: "#F26E0F",
+      description: "61 4417 4457 <br><br>Av. de las Industrias 4906, Nombre de Dios, 31110 Chihuahua, Chih.",
       color: "#f48a3e"
     },
     MEX2710: {
@@ -108,12 +111,18 @@ var simplemaps_countrymap_mapdata={
     },
     MEX2714: {
       name: "Nuevo León",
-      description: " ",
+      url: "https://www.google.com/maps/place/maquinaria+mk/@25.6935824,-100.3108476,17z/data=!4m14!1m7!3m6!1s0x86629599576c60cf:0x20e4620894e6e16e!2smaquinaria+mk!8m2!3d25.6935824!4d-100.3108476!16s%2Fg%2F11btx0c71p!3m5!1s0x86629599576c60cf:0x20e4620894e6e16e!8m2!3d25.6935824!4d-100.3108476!16s%2Fg%2F11btx0c71p?hl=en&entry=ttu",
+      inactive: "no",
+      hover_color: "#F26E0F",
+      description: "81 8372 2441<br><br>Vicente Guerrero #2011, Centrika, 64520 Monterrey, N.L.",
       color: "#f48a3e"
     },
     MEX2715: {
       name: "San Luis Potosí",
-      description: " ",
+      url: "https://www.google.com/maps/place/Maquinaria+MK/@22.1313026,-100.987319,14.5z/data=!4m6!3m5!1s0x842a98a396dcf1ff:0x17f32ce3c857944f!8m2!3d22.1327974!4d-100.9882017!16s%2Fg%2F11csb3h0hz?hl=en&entry=ttu",
+      inactive: "no",
+      hover_color: "#F26E0F",
+      description: "44 4688 5585 <br><br>Av. Dr. Salvador Nava Martinez 2769 Col. balcones del valle, Balcones del Valle 1ra Secc, 78369 San Luis, S.L.P.",
       color: "#f48a3e"
     },
     MEX2716: {
